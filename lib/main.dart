@@ -13,7 +13,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
-//     // Initialize the plugin
 //   const AndroidInitializationSettings initializationSettingsAndroid =
 //       AndroidInitializationSettings('@mipmap/ic_launcher');
 

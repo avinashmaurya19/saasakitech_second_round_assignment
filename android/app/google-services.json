@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795300546102",
+    "project_id": "email-password-login-signup",
+    "storage_bucket": "email-password-login-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795300546102:android:4d6725dda283d55bb8fa97",
+        "android_client_info": {
+          "package_name": "com.example.saasakitech_second_round_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pzPDWZRfI8GTjLZiC6Q-9-o8pDVspvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
